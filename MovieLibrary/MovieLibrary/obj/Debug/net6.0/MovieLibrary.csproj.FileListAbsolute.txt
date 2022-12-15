@@ -1,0 +1,15 @@
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.csproj.AssemblyReference.cache
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.AssemblyInfo.cs
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\bin\Debug\net6.0\MovieLibrary.exe
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\bin\Debug\net6.0\MovieLibrary.deps.json
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\bin\Debug\net6.0\MovieLibrary.runtimeconfig.json
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\bin\Debug\net6.0\MovieLibrary.dll
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\bin\Debug\net6.0\MovieLibrary.pdb
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.dll
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\refint\MovieLibrary.dll
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.pdb
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\MovieLibrary.genruntimeconfig.cache
+C:\code\C-Sharp\MovieLibrary\MovieLibrary\obj\Debug\net6.0\ref\MovieLibrary.dll

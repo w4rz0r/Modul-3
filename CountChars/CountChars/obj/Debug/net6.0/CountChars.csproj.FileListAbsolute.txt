@@ -1,0 +1,15 @@
+C:\code\C-Sharp\CountChars\CountChars\bin\Debug\net6.0\CountChars.exe
+C:\code\C-Sharp\CountChars\CountChars\bin\Debug\net6.0\CountChars.deps.json
+C:\code\C-Sharp\CountChars\CountChars\bin\Debug\net6.0\CountChars.runtimeconfig.json
+C:\code\C-Sharp\CountChars\CountChars\bin\Debug\net6.0\CountChars.dll
+C:\code\C-Sharp\CountChars\CountChars\bin\Debug\net6.0\CountChars.pdb
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.csproj.AssemblyReference.cache
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.AssemblyInfoInputs.cache
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.AssemblyInfo.cs
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.dll
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\refint\CountChars.dll
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.pdb
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\CountChars.genruntimeconfig.cache
+C:\code\C-Sharp\CountChars\CountChars\obj\Debug\net6.0\ref\CountChars.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "J9xngFzwqk+T3NnYaV9bXjcuL58SRelkxBxSh59QzXQ=",
+  "Source": "ToDoList",
+  "BasePath": "_content/ToDoList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoList\\wwwroot",
+      "Source": "ToDoList",
+      "ContentRoot": "C:\\code\\C-Sharp\\ToDoList\\ToDoList\\wwwroot\\",
+      "BasePath": "_content/ToDoList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\code\\C-Sharp\\ToDoList\\ToDoList\\wwwroot\\index.html",
+      "SourceId": "ToDoList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\C-Sharp\\ToDoList\\ToDoList\\wwwroot\\",
+      "BasePath": "_content/ToDoList",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\code\C-Sharp\storyGenerator\storyGenerator\bin\Debug\net6.0\storyGenerator.exe
+C:\code\C-Sharp\storyGenerator\storyGenerator\bin\Debug\net6.0\storyGenerator.deps.json
+C:\code\C-Sharp\storyGenerator\storyGenerator\bin\Debug\net6.0\storyGenerator.runtimeconfig.json
+C:\code\C-Sharp\storyGenerator\storyGenerator\bin\Debug\net6.0\storyGenerator.dll
+C:\code\C-Sharp\storyGenerator\storyGenerator\bin\Debug\net6.0\storyGenerator.pdb
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.csproj.AssemblyReference.cache
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.AssemblyInfoInputs.cache
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.AssemblyInfo.cs
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.dll
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\refint\storyGenerator.dll
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.pdb
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\storyGenerator.genruntimeconfig.cache
+C:\code\C-Sharp\storyGenerator\storyGenerator\obj\Debug\net6.0\ref\storyGenerator.dll

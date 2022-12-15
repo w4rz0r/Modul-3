@@ -1,0 +1,17 @@
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\JsonConvertUtenDatabase.exe
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\JsonConvertUtenDatabase.deps.json
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\JsonConvertUtenDatabase.runtimeconfig.json
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\JsonConvertUtenDatabase.dll
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\JsonConvertUtenDatabase.pdb
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.csproj.AssemblyReference.cache
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.AssemblyInfoInputs.cache
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.AssemblyInfo.cs
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.csproj.CopyComplete
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.dll
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\refint\JsonConvertUtenDatabase.dll
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.pdb
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\JsonConvertUtenDatabase.genruntimeconfig.cache
+C:\code\C-Sharp\JsonConvertUtenDatabase\JsonConvertUtenDatabase\obj\Debug\net6.0\ref\JsonConvertUtenDatabase.dll

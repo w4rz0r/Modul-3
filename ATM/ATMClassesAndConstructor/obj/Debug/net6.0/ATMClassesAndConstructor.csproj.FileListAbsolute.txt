@@ -1,0 +1,15 @@
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\bin\Debug\net6.0\ATMClassesAndConstructor.exe
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\bin\Debug\net6.0\ATMClassesAndConstructor.deps.json
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\bin\Debug\net6.0\ATMClassesAndConstructor.runtimeconfig.json
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\bin\Debug\net6.0\ATMClassesAndConstructor.dll
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\bin\Debug\net6.0\ATMClassesAndConstructor.pdb
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.csproj.AssemblyReference.cache
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.AssemblyInfoInputs.cache
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.AssemblyInfo.cs
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.dll
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\refint\ATMClassesAndConstructor.dll
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.pdb
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ATMClassesAndConstructor.genruntimeconfig.cache
+C:\code\C-Sharp\ATMClassesAndConstructor\ATMClassesAndConstructor\obj\Debug\net6.0\ref\ATMClassesAndConstructor.dll

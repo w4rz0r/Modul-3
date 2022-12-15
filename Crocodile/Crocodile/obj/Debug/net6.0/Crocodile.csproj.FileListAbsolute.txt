@@ -1,0 +1,15 @@
+C:\code\C-Sharp\Crocodile\Crocodile\bin\Debug\net6.0\Crocodile.exe
+C:\code\C-Sharp\Crocodile\Crocodile\bin\Debug\net6.0\Crocodile.deps.json
+C:\code\C-Sharp\Crocodile\Crocodile\bin\Debug\net6.0\Crocodile.runtimeconfig.json
+C:\code\C-Sharp\Crocodile\Crocodile\bin\Debug\net6.0\Crocodile.dll
+C:\code\C-Sharp\Crocodile\Crocodile\bin\Debug\net6.0\Crocodile.pdb
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.csproj.AssemblyReference.cache
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.AssemblyInfoInputs.cache
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.AssemblyInfo.cs
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.dll
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\refint\Crocodile.dll
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.pdb
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\Crocodile.genruntimeconfig.cache
+C:\code\C-Sharp\Crocodile\Crocodile\obj\Debug\net6.0\ref\Crocodile.dll

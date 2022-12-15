@@ -1,0 +1,15 @@
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.csproj.AssemblyReference.cache
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.AssemblyInfoInputs.cache
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.AssemblyInfo.cs
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\socialMedia\socialMedia\bin\Debug\net6.0\socialMedia.exe
+C:\code\C-Sharp\socialMedia\socialMedia\bin\Debug\net6.0\socialMedia.deps.json
+C:\code\C-Sharp\socialMedia\socialMedia\bin\Debug\net6.0\socialMedia.runtimeconfig.json
+C:\code\C-Sharp\socialMedia\socialMedia\bin\Debug\net6.0\socialMedia.dll
+C:\code\C-Sharp\socialMedia\socialMedia\bin\Debug\net6.0\socialMedia.pdb
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.dll
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\refint\socialMedia.dll
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.pdb
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\socialMedia.genruntimeconfig.cache
+C:\code\C-Sharp\socialMedia\socialMedia\obj\Debug\net6.0\ref\socialMedia.dll

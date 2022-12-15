@@ -1,0 +1,15 @@
+C:\code\C-Sharp\ATM\ATM\bin\Debug\net6.0\ATM.exe
+C:\code\C-Sharp\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\code\C-Sharp\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\code\C-Sharp\ATM\ATM\bin\Debug\net6.0\ATM.dll
+C:\code\C-Sharp\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.dll
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\code\C-Sharp\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll

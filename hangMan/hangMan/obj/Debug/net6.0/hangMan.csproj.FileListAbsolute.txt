@@ -1,0 +1,15 @@
+C:\code\C-Sharp\hangMan\hangMan\bin\Debug\net6.0\hangMan.exe
+C:\code\C-Sharp\hangMan\hangMan\bin\Debug\net6.0\hangMan.deps.json
+C:\code\C-Sharp\hangMan\hangMan\bin\Debug\net6.0\hangMan.runtimeconfig.json
+C:\code\C-Sharp\hangMan\hangMan\bin\Debug\net6.0\hangMan.dll
+C:\code\C-Sharp\hangMan\hangMan\bin\Debug\net6.0\hangMan.pdb
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.csproj.AssemblyReference.cache
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.AssemblyInfoInputs.cache
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.AssemblyInfo.cs
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.dll
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\refint\hangMan.dll
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.pdb
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\hangMan.genruntimeconfig.cache
+C:\code\C-Sharp\hangMan\hangMan\obj\Debug\net6.0\ref\hangMan.dll

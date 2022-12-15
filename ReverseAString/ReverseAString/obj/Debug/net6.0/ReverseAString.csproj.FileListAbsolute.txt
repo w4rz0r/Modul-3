@@ -1,0 +1,15 @@
+C:\code\C-Sharp\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.exe
+C:\code\C-Sharp\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.deps.json
+C:\code\C-Sharp\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.runtimeconfig.json
+C:\code\C-Sharp\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.dll
+C:\code\C-Sharp\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.pdb
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.AssemblyReference.cache
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.genruntimeconfig.cache
+C:\code\C-Sharp\ReverseAString\ReverseAString\obj\Debug\net6.0\ref\ReverseAString.dll

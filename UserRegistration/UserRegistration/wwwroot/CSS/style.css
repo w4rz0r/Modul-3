@@ -1,0 +1,40 @@
+﻿body {
+    background-color:darkslategray;
+    background-position: center;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.nav-links ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #0974cc;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.icons {
+    text-align: center;
+}

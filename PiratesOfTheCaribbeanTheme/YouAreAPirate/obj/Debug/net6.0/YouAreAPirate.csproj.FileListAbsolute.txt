@@ -1,0 +1,15 @@
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\bin\Debug\net6.0\YouAreAPirate.exe
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\bin\Debug\net6.0\YouAreAPirate.deps.json
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\bin\Debug\net6.0\YouAreAPirate.runtimeconfig.json
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\bin\Debug\net6.0\YouAreAPirate.dll
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\bin\Debug\net6.0\YouAreAPirate.pdb
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.csproj.AssemblyReference.cache
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.AssemblyInfoInputs.cache
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.AssemblyInfo.cs
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.dll
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\refint\YouAreAPirate.dll
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.pdb
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\YouAreAPirate.genruntimeconfig.cache
+C:\code\C-Sharp\YouAreAPirate\YouAreAPirate\obj\Debug\net6.0\ref\YouAreAPirate.dll

@@ -1,0 +1,15 @@
+C:\code\C-Sharp\PractiseProject\PractiseProject\bin\Debug\net6.0\PractiseProject.exe
+C:\code\C-Sharp\PractiseProject\PractiseProject\bin\Debug\net6.0\PractiseProject.deps.json
+C:\code\C-Sharp\PractiseProject\PractiseProject\bin\Debug\net6.0\PractiseProject.runtimeconfig.json
+C:\code\C-Sharp\PractiseProject\PractiseProject\bin\Debug\net6.0\PractiseProject.dll
+C:\code\C-Sharp\PractiseProject\PractiseProject\bin\Debug\net6.0\PractiseProject.pdb
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.csproj.AssemblyReference.cache
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.AssemblyInfoInputs.cache
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.AssemblyInfo.cs
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.dll
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\refint\PractiseProject.dll
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.pdb
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\PractiseProject.genruntimeconfig.cache
+C:\code\C-Sharp\PractiseProject\PractiseProject\obj\Debug\net6.0\ref\PractiseProject.dll
